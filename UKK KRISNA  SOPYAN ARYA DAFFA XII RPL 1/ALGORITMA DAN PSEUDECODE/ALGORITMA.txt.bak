@@ -1,0 +1,16 @@
+ALGORITMA LOGIN
+
+1. buka halaman login
+2. isi username
+3. isi password
+4. klik login
+
+ALGORITMA REGISTER
+
+1. klik daftar akun
+2. isi username 
+3. isi email
+4. isi konfirmasi email
+5. klik daftar
+6. masuk ke halamn login
+7. login
